@@ -1,0 +1,30 @@
+_repo: Talithaevangelho-em-tres-actos_28639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinto da Rocha
+    aliases:
+    - Da Rocha, Pinto
+    - Rocha, Arthur Pinto da
+    - Rocha, Pinto da
+    - Da Rocha, Artur Pinto
+    deathdate: 1930
+    gutenberg_agent_id: '33465'
+    url: http://www.gutenberg.org/2009/agents/33465
+description: ''
+gutenberg_issued: '2009-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28639'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazilian drama'
+- !lcc 'PQ'
+title: 'Talitha: evangelho em tres actos'
+url: http://www.gutenberg.org/ebooks/28639
